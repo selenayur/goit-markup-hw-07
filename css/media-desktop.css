@@ -13,6 +13,7 @@
     .header-contacts {
         display: flex;
         margin-bottom: 0;
+        gap: 40px;
 }
 .header-contacts-link {
     font-style: normal;
@@ -63,7 +64,7 @@
     line-height: 1.2;
     letter-spacing: 0.02em;
     margin-bottom: 8px;
-    margin-top: 8px;
+
 }
 .advant-text {
     font-weight: 400;
@@ -79,6 +80,7 @@
     border-radius: 4px;
     justify-content: center;
     align-items: center;
+    margin-bottom: 8px;
 }
 /**!-------------------------DOINGT----------------------------!*/
 .doing {
